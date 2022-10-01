@@ -18,7 +18,7 @@ header {
   justify-content: space-evenly;
   height: 50vh;
   width:100%;
-  background:url(images/firework.jpg);
+  background:url(/images/firework.jpg);
   background-position:center;
   background-repeat: no-repeat;
   background-size: cover;
